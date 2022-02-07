@@ -1,0 +1,10 @@
+.book-list {
+    /* width: 500px; */
+    display: flex;
+    flex-wrap: nowrap;
+    /* display: flex;
+    flex-flow: row wrap; */
+}
+.book-list > div {
+    flex: 1 1 150px;
+}

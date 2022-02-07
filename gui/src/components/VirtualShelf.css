@@ -1,0 +1,4 @@
+.virtual-shelf-list {
+    display: flex;
+    flex-flow: row wrap;
+}

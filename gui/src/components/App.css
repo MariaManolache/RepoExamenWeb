@@ -1,0 +1,24 @@
+/* .ship-list {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.crew-member-list {
+    display: flex;
+    flex-flow: column wrap;
+    visibility: hidden;
+} */
+
+.App {
+    text-align: center;
+  }
+  
+  
+  .header {
+    background-color: #BBBBBB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
